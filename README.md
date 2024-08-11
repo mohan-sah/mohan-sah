@@ -27,8 +27,10 @@
   
 ## 📖 &nbsp; Reading list
 - [ ] [The Laws of Human Nature](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature?ref=nav_sb_ss_1_15)
-- [ ] [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [ ] [Getting to Yes](https://www.goodreads.com/book/show/313605.Getting_to_Yes?ref=nav_sb_ss_2_7)
 
+<!--
+- [ ] [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [ ] [Why Nations Succeed and Fail](https://www.goodreads.com/book/show/52962238-principles-for-dealing-with-the-changing-world-order?ac=1&from_search=true&qid=PvXw9mGC6b&rank=1)
 - [ ] [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money?ref=nav_sb_ss_4_5)
 - [ ] [The Laws of Human Nature](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature?ref=nav_sb_ss_1_15)
@@ -37,7 +39,7 @@
 - [ ] [Bargaining with the Devil](https://www.goodreads.com/book/show/7658881-bargaining-with-the-devil?ref=nav_sb_ss_4_15)
 - [ ] [Negotiation Techniques](https://www.goodreads.com/book/show/7877519-negotiation-techniques?ref=nav_sb_ss_1_16#CommunityReviews)
 - [ ] [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence?ref=nav_sb_ss_2_7)
-- [ ] [Getting to Yes](https://www.goodreads.com/book/show/313605.Getting_to_Yes?ref=nav_sb_ss_2_7)
+-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
