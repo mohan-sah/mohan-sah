@@ -15,21 +15,20 @@
 ✉️ &nbsp;If you want to say Hi, you can email me at mohansah944@gmail.com.
 
 ## 📚 Latest publications
-- [Multi-Spectral Fusion using Generative Adversarial Networks for UAV Detection of Wild Fires](https://ieeexplore.ieee.org/document/10067042)
+- [Hybrid Deep Learning Framework For Automated Classification Of Wildlife Camera Trap Images](https://ieeexplore.ieee.org/)
 
+  <!--
 ## 🔧 Latest work
-- [Using sensor measurements to predict engine failures](https://github.com/kanmaytacker/predictive-maintenance)
-- [Macroscopic and mesoscopic analysis of global air transport network](https://github.com/kanmaytacker/flight-network-analysis)
 
 ## &#x270d; Latest posts
 
 - [How I wrote a pipeline abstraction module with one line of code](https://medium.com/locus-iq/how-we-wrote-a-pipeline-abstraction-module-with-one-line-of-code-9d7580d20337)
-
+-->
 ## 📖 &nbsp; Reading list
-
-- [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
-- [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence)
-
+####### on human nature
+- [ ] [The Laws of Human Nature](https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature?ref=nav_sb_ss_1_15)
+####### on public speaking
+- [ ] [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
