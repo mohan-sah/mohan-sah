@@ -10,9 +10,9 @@
 💡 &nbsp; These days I just increase my proficiency in python. 🤖 \
 🎓 &nbsp;I'm an alumnus of [Army Public School](https://apsbangalore.edu.in/). \
 🎓 &nbsp;My most recent academic misadventure was as a undergraduate student studying mathematics and computing at the [Ramaiah University](http://www.msruas.ac.in/). \
-🛠 &nbsp;My last work project was building [edt tech website]()). \
+🛠 &nbsp;My last work project was building [my own website](mohansah.com), a work in progress. \
 🌱 &nbsp;Ai fascinates me and you had me at GANs.\
-✉️ &nbsp;If you want to say Hi, you can email me at mohansah944@gmail.com.
+✉️ &nbsp;If you want to say Hi, you can email me at mohansah944@gmail.com or www.mohansah.com .
 
 ## 📚 Latest publications
 - [Hybrid Deep Learning Framework For Automated Classification Of Wildlife Camera Trap Images](https://ieeexplore.ieee.org/) 
